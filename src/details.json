@@ -1,0 +1,38 @@
+[
+    {
+        "name": "focaccia",
+        "details": "Bread with italian olive oil and rosemary",
+        "price": "6",
+        "poster": "/assets/pizza1.jpg"
+    },
+    {
+        "name": "Pizza Margherita",
+        "details": "Tomato and mozerlla",
+        "price": "10",
+        "poster": "/assets/pizza2.jpg"
+    },
+    {
+        "name": "Pizza Spinaci",
+        "details": "Tomato, mozerlla, spinach and ricotta cheese",
+        "price": "12",
+        "poster": "/assets/pizza3.jpg"
+    },
+    {
+        "name": "Pizza Funghi",
+        "details": "Tomato, mozerlla, mushrooms and onion",
+        "price": "12",
+        "poster": "/assets/pizza4.jpg"
+    },
+    {
+        "name": "Pizza Salamino",
+        "details": "Tomato, mozerlla, and pepperoni",
+        "price": "Sold Out",
+        "poster": "/assets/pizza5.jpg"
+    },
+    {
+        "name": "Pizza Prosciutto",
+        "details": "Tomato, mozerlla, ham, aragula, and burrata cheese",
+        "price": "18",
+        "poster": "/assets/pizza6.jpg"
+    }
+]

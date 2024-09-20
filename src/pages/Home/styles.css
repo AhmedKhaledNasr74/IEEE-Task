@@ -1,0 +1,46 @@
+body {
+    background-color: #f7f3ea !important;
+}
+.pageTitle {
+    color: #efc94e;
+    font-weight: 300;
+    letter-spacing: 5px;
+    position: relative;
+    width: fit-content;
+    margin: 10px auto 40px;
+}
+
+.pageTitle::before {
+    content: "";
+    position: absolute;
+    left: -100px;
+    top: 50%;
+    width: 35px;
+    height: 3px;
+    background-color: #efc94e;
+}
+
+.pageTitle::after {
+    content: "";
+    position: absolute;
+    right: -100px;
+    top: 50%;
+    width: 35px;
+    height: 3px;
+    background-color: #efc94e;
+}
+
+.fitContent {
+    width: fit-content;
+}
+
+.pizzaPoster img {
+    height: 120px;
+    aspect-ratio: 1/1;
+    object-fit: fill;
+}
+
+.gray-overlay {
+    filter: grayscale(100%);
+    opacity: 0.5;
+}
